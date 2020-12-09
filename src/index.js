@@ -13,12 +13,12 @@ const data = {
   work: `${chalk.white(
     'Web development agency with focus on machine learning'
   )}`,
-  web: chalk.blue('https://codeasy.com'),
+  web: chalk.cyan('https://codeasy.com'),
   linkedin:
-    chalk.gray('https://linkedin.com/company/') + chalk.blue('codeasycom'),
-  instagram: chalk.gray('https://instagram.com/') + chalk.blue('codeasycom'),
-  facebook: chalk.gray('https://facebook.com/') + chalk.blue('codeasycom'),
-  email: chalk.gray('info') + chalk.blue('@codeasy.com'),
+    chalk.gray('https://linkedin.com/company/') + chalk.cyan('codeasycom'),
+  instagram: chalk.gray('https://instagram.com/') + chalk.cyan('codeasycom'),
+  facebook: chalk.gray('https://facebook.com/') + chalk.cyan('codeasycom'),
+  email: chalk.gray('info') + chalk.cyan('@codeasy.com'),
   npx: chalk.red('npx') + ' ' + chalk.white('codeasy'),
 
   labelWork: chalk.white.bold('       Work:'),
@@ -67,7 +67,7 @@ const me = boxen(
 console.log(me)
 
 const tip = [
-  `Tip: Try ${chalk.blue.bold('cmd/ctrl + click')} on the links above`,
+  `Tip: Try ${chalk.cyan.bold('cmd/ctrl + click')} on the links above`,
   '',
 ].join('\n')
 
