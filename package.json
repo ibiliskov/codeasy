@@ -1,0 +1,28 @@
+{
+  "name": "codeasy",
+  "version": "1.0.0",
+  "description": "Short business card for https://codeasy.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibiliskov/codeasy-card.git"
+  },
+  "keywords": [
+    "card",
+    "business",
+    "webdev",
+    "dev",
+    "agency",
+    "split",
+    "croatia"
+  ],
+  "author": "ibiliskov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibiliskov/codeasy/issues"
+  },
+  "homepage": "https://github.com/ibiliskov/codeasy#readme"
+}
