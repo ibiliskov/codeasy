@@ -53,7 +53,7 @@ const me = boxen(
     )}`,
     `${chalk.italic('Doing machine learning and computer vision.')}`,
     ``,
-    `${chalk.bold("We're hiring!! Get in touch with us.")}`,
+    `${chalk.bold("We're hiring!!! Get in touch with us.")}`,
   ].join('\n'),
   {
     margin: 1,

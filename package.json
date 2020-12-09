@@ -1,6 +1,6 @@
 {
   "name": "codeasy",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Short business card for https://codeasy.com",
   "main": "src/index.js",
   "scripts": {
